@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x321Ebb47742F41348875aa644F596D85E477707A",
+  "SCAN_LINK": "https://polygonscan.com/token/0x321Ebb47742F41348875aa644F596D85E477707A",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ChiBoki",
+  "SYMBOL": "ChiBoki",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chiboki",
+  "SHOW_BACKGROUND": false
+}
